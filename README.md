@@ -1,7 +1,5 @@
 # Hey, I'm Mohammed Ali Idris Abubaker 👋  
-💻 Software Engineer | 🚀 Electrical and Elecronic Engineering Student | 🤖 Robotics & AI Enthusiast | 🔍 Machine Learning Explorer | 📊 Data Driven control | 🕹️ Automation
-
-I'm a **Software Engineer** with a degree in Electrical and Electronics Engineering. I have a passion for **artificial intelligence**, **robotics**, **embedded systems**, and **Mobile Applications development**. Currently, I work at **Caretta Robotics** as an Software Engineer, building intelligent robotic systems and pushing the boundaries of automation.
+💻 Software Engineer at **Caretta Robotics** | 🚀 Electrical and Elecronic Engineer | 🤖 Robotics & AI Enthusiast | 🔍 Machine Learning Explorer | 📊 Data Driven control | 🕹️ Automation
 
 ---
 
@@ -54,7 +52,6 @@ I'm a **Software Engineer** with a degree in Electrical and Electronics Engineer
 
 ---
 
-
 ## 💡 Areas That Excite Me  
 
 - **Problem-Solving**: I am deeply passionate about addressing real-world challenges through innovative, scalable, and optimized solutions. My approach focuses on leveraging cutting-edge technologies to create impactful and sustainable results.  
@@ -75,7 +72,7 @@ I'm a **Software Engineer** with a degree in Electrical and Electronics Engineer
 
 ## 📬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-abubaker-baa87916a/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-abubaker-baa87916a/) 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mohammedaliedriis@gmail.com)
 
 ---
