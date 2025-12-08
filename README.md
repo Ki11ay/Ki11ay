@@ -9,10 +9,10 @@ I build intelligent mobile apps and automation systems using Python and Flutter.
 ## 🔧 Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-blue?logo=python) ![Dart](https://img.shields.io/badge/Dart-blue?logo=dart) ![C](https://img.shields.io/badge/C-blue?logo=c)
+![Python](https://img.shields.io/badge/Python-blue?logo=python) ![Dart](https://img.shields.io/badge/Dart-blue?logo=dart) ![C](https://img.shields.io/badge/C-blue?logo=c) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 
 **Frameworks & Libraries:**  
-![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-blue?logo=opencv) ![FastAPI](https://img.shields.io/badge/FastAPI-orange?logo=fastapi)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter) ![React](https://img.shields.io/badge/React-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-blue?logo=opencv) ![FastAPI](https://img.shields.io/badge/FastAPI-orange?logo=fastapi)
 
 **Tools & Platforms:**  
 ![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) ![Git](https://img.shields.io/badge/Git-red?logo=git) ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
