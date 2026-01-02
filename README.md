@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Ali Idris Abubaker
 
-**Python Developer** | **Flutter Mobile Developer** | **AI & ML Enthusiast**
+**Full Stack Developer** | **Flutter Mobile Developer** | **AI & ML Enthusiast** | ***Python Developer*
 
 I build intelligent mobile apps and automation systems using Python and Flutter. Passionate about real-time applications, embedded systems, and AI-powered solutions.
 
